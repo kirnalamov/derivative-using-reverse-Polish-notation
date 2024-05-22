@@ -1,0 +1,24 @@
+﻿  pri.cpp
+C:\Users\malan\source\repos\Project6\Project6\pri.cpp(357,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\malan\source\repos\Project6\Project6\pri.cpp(593,62): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\malan\source\repos\Project6\Project6\pri.cpp(597,62): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\malan\source\repos\Project6\Project6\pri.cpp(601,71): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\malan\source\repos\Project6\Project6\pri.cpp(605,71): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\malan\source\repos\Project6\Project6\pri.cpp(610,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\malan\source\repos\Project6\Project6\pri.cpp(611,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\malan\source\repos\Project6\Project6\pri.cpp(624,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\malan\source\repos\Project6\Project6\pri.cpp(625,16): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\malan\source\repos\Project6\Project6\pri.cpp(741,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\malan\source\repos\Project6\Project6\pri.cpp(742,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\malan\source\repos\Project6\Project6\pri.cpp(743,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\malan\source\repos\Project6\Project6\pri.cpp(744,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\malan\source\repos\Project6\Project6\pri.cpp(50,1): warning C4715: unar_action: значение возвращается не при всех путях выполнения
+C:\Users\malan\source\repos\Project6\Project6\pri.cpp(63,1): warning C4715: action: значение возвращается не при всех путях выполнения
+C:\Users\malan\source\repos\Project6\Project6\pri.cpp(70,1): warning C4715: unar_action_p: значение возвращается не при всех путях выполнения
+C:\Users\malan\source\repos\Project6\Project6\pri.cpp(110,1): warning C4715: action_p: значение возвращается не при всех путях выполнения
+C:\Users\malan\source\repos\Project6\Project6\pri.cpp(145,1): warning C4715: unar_action_p_strin: значение возвращается не при всех путях выполнения
+C:\Users\malan\source\repos\Project6\Project6\pri.cpp(221,1): warning C4715: action_p_strin: значение возвращается не при всех путях выполнения
+C:\Users\malan\source\repos\Project6\Project6\pri.cpp(238,1): warning C4715: unar_action_strin: значение возвращается не при всех путях выполнения
+C:\Users\malan\source\repos\Project6\Project6\pri.cpp(271,1): warning C4715: action_strin: значение возвращается не при всех путях выполнения
+  pri.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project6.vcxproj -> C:\Users\malan\source\repos\Project6\x64\Release\Project6.exe
